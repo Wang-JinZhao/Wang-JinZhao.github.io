@@ -9,7 +9,7 @@
 title                    : "JinZhao Wang(王进钊)"
 description              : " "
 repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "JinZhao Wang\r\n王进钊"
+  name             : "JinZhao Wang 王进钊"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The university of south china"
   location         : "HenYang China"
@@ -136,8 +136,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+# timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+github: [metadata]
 
 # Plugins
 plugins:
