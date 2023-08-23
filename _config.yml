@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "JinZhao Wang(王进钊)"
-description              : "这是王进钊的学术主页,主要记载了本人学术信息"
-repository               : "Wang-JinZhao/Wang-JinZhao.github.io"
+description              : " "
+repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=0U1TD6MAAAAJ"
   email            : "jinzhaowang@stu.usc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  
+
 
 # Reading Files
 include:
