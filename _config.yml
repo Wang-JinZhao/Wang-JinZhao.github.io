@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "JinZhao Wang(王进钊)"
-description              : ""
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "这是王进钊的学术主页,主要记载了本人学术信息"
+repository               : "Wang-JinZhao/Wang-JinZhao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  
 
 # Reading Files
 include:
