@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "JinZhao Wang(王进钊)"
+  name             : "JinZhao Wang\n王进钊"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The university of south china"
   location         : "HenYang China"
