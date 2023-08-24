@@ -21,12 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "JinZhao Wang 
-                      王进钊"
+  name             : "JinZhao Wang"
+  zh-name          : "王进钊"
   avatar           : "images/me.png"
   bio              : "The university of south china"
+  zh-bio           : "南华大学"
   location         : "HenYang China"
+  zh-location      : "中国湖南省衡阳市"
   employer         : "WenLong Tian"
+  zh-employer      : "田纹龙"
   employer_github  : "https://github.com/tianwenlong001"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0U1TD6MAAAAJ"
