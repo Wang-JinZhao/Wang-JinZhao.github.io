@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "JinZhao Wang's academic homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 

@@ -21,16 +21,18 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "JinZhao Wang 王进钊"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "JinZhao Wang 
+                      王进钊"
+  avatar           : "images/me.png"
   bio              : "The university of south china"
   location         : "HenYang China"
   employer         : "WenLong Tian"
+  employer_github  : "https://github.com/tianwenlong001"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0U1TD6MAAAAJ"
   email            : "jinzhaowang@stu.usc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  "https://github.com/zhaozhao626"
   bitbucket        :
   codepen          :
   dribbble         :
